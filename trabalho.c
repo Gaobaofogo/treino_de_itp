@@ -25,5 +25,7 @@ int main(){
   printf("veio a caixa\n");
   printf("falei errado\n");
   printf("diferente doq ele escreveu\n");
+  printf("Você foi aprovado: FMC I: 5.0\n");
+
   return 0;
 }
