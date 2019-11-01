@@ -24,5 +24,6 @@ int main(){
   printf("Hello world\n");
   printf("veio a caixa\n");
   printf("falei errado\n");
+  printf("diferente doq ele escreveu\n");
   return 0;
 }
